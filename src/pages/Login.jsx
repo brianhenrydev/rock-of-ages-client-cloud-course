@@ -76,9 +76,9 @@ export const Login = () => {
             >
               Sign in
             </button>
-            <p>test of ci/cd</p>
           </fieldset>
         </form>
+            <p>test of ci/cd</p>
       </section>
       <div className="loginLinks">
         <section className="link--register">
