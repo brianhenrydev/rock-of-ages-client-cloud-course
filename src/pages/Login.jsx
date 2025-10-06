@@ -76,6 +76,7 @@ export const Login = () => {
             >
               Sign in
             </button>
+            <p>test of ci/cd</p>
           </fieldset>
         </form>
       </section>
